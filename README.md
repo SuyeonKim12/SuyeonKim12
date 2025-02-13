@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuyeonKim12
-- 👀 I’m interested in Data Science, Business Analytics
-- 🌱 I’m currently learning Data Science courses like Python, R, SPSS
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m seeking opportunities in Data Science and Business Analytics
+- 💞️ I have experience with Python, R, SQL, and Tableau
 - 📫 How to reach me is email tnlzmgirl@gmail.com
 
 <!---
